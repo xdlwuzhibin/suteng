@@ -1,1 +1,0 @@
-<?phpinclude '/www/shizhou/Timer/Timer.class.php';/** *  任务 每天执行 */$Timer = new TimerClient\Timer();$Timer->Timer_day();
